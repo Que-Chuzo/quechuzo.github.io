@@ -1,0 +1,18 @@
+@mixin focusOutline() {
+  border-color: $focus-border-color;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba($focus-border-color,.25);
+}
+
+@mixin focusOutlineTransition() {
+  transition: border-color .3s, box-shadow .3s;
+}
+
+@mixin icon-as-background ($size: 17px, $urlBackgroundImage: null) {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: $size;
+  @if ($urlBackgroundImage) {
+    background-image: url($urlBackgroundImage);
+  }
+}

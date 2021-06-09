@@ -1,0 +1,359 @@
+{
+  "results": [
+    {
+      "id": "205618918121514089451879",
+      "date": "Sun Sep 06 2020 14:40:44 GMT-0600",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "year": "2014",
+      "image": "/assets/images/autos/car-1.jpg",
+      "capacity": 5,
+      "isPremium": true,
+      "financing": true,
+      "transmition": "Manual",
+      "fuel": "Disel",
+      "style": "Todo Terreno 4x4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur luctus ultricies leo sed facilisis. Fusce ut nisl molestie eros condimentum interdum vitae vitae velit. Sed venenatis ligula augue. Duis dolor magna, lacinia eu pharetra egestas, fringilla in tortor. Mauris vel consequat mauris, eu porttitor ex. Nunc ut ipsum efficitur, gravida nibh in, ullamcorper lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper vel erat in dictum. Quisque risus ligula, feugiat at semper vel, bibendum eu risus. Nam tincidunt dapibus odio, ac fringilla mi facilisis vel.",
+      "price": "12000000",
+      "engine": "4500",
+      "doors": 4,
+      "plate": 8,
+      "interiorColor": "#000000",
+      "exteriorColor": "#FFFFFF",
+      "seller":  {
+        "firstname": "Lauren",
+        "lastname": "López Ordóñez",
+        "image": "/assets/images/profile.jpg",
+        "whatsapp": "8316-8465",
+        "phone": "8316-8465",
+        "email": "juanito@fake.com"
+      },
+      "location":"Heredia, Sarapiqui",
+      "mileage": "61000",
+      "signedUp": true,
+      "riteve": true,
+      "negotiablePrice": false,
+      "receiveVehicle": false,
+      "circulationPermit": true,
+      "entertainment": {
+        "radio-usb-aux": true,
+        "bluetooth": false,
+        "pantalla-cabecera": true,
+        "controles-volante": true
+      },
+      "safety": {
+        "cierre-central": false,
+        "alarma": true,
+        "camara-retoceso": true,
+        "sensores-retroceso": true
+      },
+      "performance": {
+        "direccion-hidraulica": false,
+        "frenos-abs": true,
+        "control-seguridad": true
+      },
+      "comfort": {
+        "asientos-electricos": true,
+        "vidrios-electricos": false,
+        "espejos-electronicos": true,
+        "asientos-cuero": true,
+        "aire-acondicionado": false,
+        "volate-ajustable": false
+      },
+      "appearance":{
+        "vidrios-polarizados": false,
+        "aros-lujo": false,
+        "techo-panoramico": true
+      }
+    },
+    {
+      "id": "79198282004984081084982",
+      "date": "Sun Sep 06 2020 14:40:44 GMT-0600",
+      "brand": "Toyota",
+      "model": "RAV 4",
+      "year": "2017",
+      "image": "/assets/images/autos/car-2.jpg",
+      "capacity": 5,
+      "isPremium": true,
+      "financing": true,
+      "transmition": "Automatico",
+      "fuel": "Gasolina",
+      "style": "Todo Terreno 4x2",
+      "description": "Hilux color blanco en perfecto estado con un solo dueño 67 km, ademas llantas nuevas y Rtv al dia",
+      "price": "14500000",
+      "engine": 2500,
+      "doors": 4,
+      "plate": 4,
+      "interiorColor": "#000000",
+      "exteriorColor": "#2c3f5c",
+      "seller":  {
+        "firstname": "Lauren",
+        "lastname": "López Ordóñez",
+        "image": "/assets/images/profile.jpg",
+        "whatsapp": "8316-8465",
+        "phone": "8316-8465",
+        "email": "juanito@fake.com"
+      },
+      "location":"Heredia, Sarapiqui",
+      "mileage": "61000",
+      "signedUp": true,
+      "riteve": true,
+      "negotiablePrice": false,
+      "receiveVehicle": true,
+      "circulationPermit": true,
+      "entertainment": {
+        "radio-usb-aux": true,
+        "bluetooth": true,
+        "pantalla-cabecera": true,
+        "controles-volante": true
+      },
+      "safety": {
+        "cierre-central": true,
+        "alarma": true,
+        "camara-retoceso": false,
+        "sensores-retroceso": true
+      },
+      "performance": {
+        "direccion-hidraulica": true,
+        "frenos-abs": false,
+        "control-seguridad": true
+      },
+      "comfort": {
+        "asientos-electricos": true,
+        "vidrios-electricos": false,
+        "espejos-electronicos": false,
+        "asientos-cuero": false,
+        "aire-acondicionado": true,
+        "volate-ajustable": false
+      },
+      "appearance":{
+        "vidrios-polarizados": true,
+        "aros-lujo": false,
+        "techo-panoramico": true
+      }
+    },
+    {
+      "id": "205618918121514089451879",
+      "date": "Sun Sep 06 2020 14:40:44 GMT-0600",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "year": "2014",
+      "image": "/assets/images/autos/car-1.jpg",
+      "capacity": 5,
+      "isPremium": true,
+      "financing": true,
+      "transmition": "Manual",
+      "fuel": "Disel",
+      "style": "Todo Terreno 4x4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur luctus ultricies leo sed facilisis. Fusce ut nisl molestie eros condimentum interdum vitae vitae velit. Sed venenatis ligula augue. Duis dolor magna, lacinia eu pharetra egestas, fringilla in tortor. Mauris vel consequat mauris, eu porttitor ex. Nunc ut ipsum efficitur, gravida nibh in, ullamcorper lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper vel erat in dictum. Quisque risus ligula, feugiat at semper vel, bibendum eu risus. Nam tincidunt dapibus odio, ac fringilla mi facilisis vel.",
+      "price": "12000000",
+      "engine": "4500",
+      "doors": 4,
+      "plate": 8,
+      "interiorColor": "#000000",
+      "exteriorColor": "#FFFFFF",
+      "seller":  {
+        "firstname": "Lauren",
+        "lastname": "López Ordóñez",
+        "image": "/assets/images/profile.jpg",
+        "whatsapp": "8316-8465",
+        "phone": "8316-8465",
+        "email": "juanito@fake.com"
+      },
+      "location":"Heredia, Sarapiqui",
+      "mileage": "61000",
+      "signedUp": true,
+      "riteve": true,
+      "negotiablePrice": false,
+      "receiveVehicle": false,
+      "circulationPermit": true,
+      "entertainment": {
+        "radio-usb-aux": true,
+        "bluetooth": false,
+        "pantalla-cabecera": true,
+        "controles-volante": true
+      },
+      "safety": {
+        "cierre-central": false,
+        "alarma": true,
+        "camara-retoceso": true,
+        "sensores-retroceso": true
+      },
+      "performance": {
+        "direccion-hidraulica": false,
+        "frenos-abs": true,
+        "control-seguridad": true
+      },
+      "comfort": {
+        "asientos-electricos": true,
+        "vidrios-electricos": false,
+        "espejos-electronicos": true,
+        "asientos-cuero": true,
+        "aire-acondicionado": false,
+        "volate-ajustable": false
+      },
+      "appearance":{
+        "vidrios-polarizados": false,
+        "aros-lujo": false,
+        "techo-panoramico": true
+      }
+    },
+    {
+      "id": "79198282004984081084982",
+      "date": "Sun Sep 06 2020 14:40:44 GMT-0600",
+      "brand": "Toyota",
+      "model": "RAV 4",
+      "year": "2017",
+      "image": "/assets/images/autos/car-2.jpg",
+      "capacity": 5,
+      "isPremium": true,
+      "financing": true,
+      "transmition": "Automatico",
+      "fuel": "Gasolina",
+      "style": "Todo Terreno 4x2",
+      "description": "Hilux color blanco en perfecto estado con un solo dueño 67 km, ademas llantas nuevas y Rtv al dia",
+      "price": "14500000",
+      "engine": 2500,
+      "doors": 4,
+      "plate": 4,
+      "interiorColor": "#000000",
+      "exteriorColor": "#2c3f5c",
+      "seller":  {
+        "firstname": "Lauren",
+        "lastname": "López Ordóñez",
+        "image": "/assets/images/profile.jpg",
+        "whatsapp": "8316-8465",
+        "phone": "8316-8465",
+        "email": "juanito@fake.com"
+      },
+      "location":"Heredia, Sarapiqui",
+      "mileage": "61000",
+      "signedUp": true,
+      "riteve": true,
+      "negotiablePrice": false,
+      "receiveVehicle": true,
+      "circulationPermit": true,
+      "entertainment": {
+        "radio-usb-aux": true,
+        "bluetooth": true,
+        "pantalla-cabecera": true,
+        "controles-volante": true
+      },
+      "safety": {
+        "cierre-central": true,
+        "alarma": true,
+        "camara-retoceso": false,
+        "sensores-retroceso": true
+      },
+      "performance": {
+        "direccion-hidraulica": true,
+        "frenos-abs": false,
+        "control-seguridad": true
+      },
+      "comfort": {
+        "asientos-electricos": true,
+        "vidrios-electricos": false,
+        "espejos-electronicos": false,
+        "asientos-cuero": false,
+        "aire-acondicionado": true,
+        "volate-ajustable": false
+      },
+      "appearance":{
+        "vidrios-polarizados": true,
+        "aros-lujo": false,
+        "techo-panoramico": true
+      }
+    }
+  ],
+  "entertainment":  [
+    {
+      "text" : "Radio USB/AUX",
+      "name": "radio-usb-aux"
+    },
+    {
+      "text" : "Bluetooth",
+      "name": "bluetooth"
+
+    },
+    {
+      "text" : "Pantalla en Cabecera",
+      "name": "pantalla-cabecera"
+    },
+    {
+      "text" : "Controles en el Volante",
+      "name": "controles-volante"
+    }
+  ],
+  "safety": [
+    {
+      "text" : "Cierre Central",
+      "name": "cierre-central"
+    },
+    {
+      "text" : "Alarma",
+      "name": "alarma"
+    },
+    {
+      "text" : "Sensores de Retroceso",
+      "name": "sensores-retroceso"
+    },
+    {
+      "text" : "Cámara de Retoceso",
+      "name": "camara-retoceso"
+    }
+  ],
+  "performance": [
+    {
+      "text" : "Dirección Hidraulica",
+      "name": "direccion-hidraulica"
+    },
+    {
+      "text" : "Frenos ABS",
+      "name": "frenos-abs"
+    },
+    {
+      "text" : "Control de Seguridad",
+      "name": "control-seguridad"
+    }
+  ],
+  "comfort": [
+    {
+      "text" : "Asientos Electricos",
+      "name": "asientos-electricos"
+    },
+    {
+      "text" : "Vidrios Electricos",
+      "name": "vidrios-electricos"
+    },
+    {
+      "text" : "Espejos Electronicos",
+      "name": "espejos-electronicos"
+    },
+    {
+      "text" : "Asientos de Cuero",
+      "name": "asientos-cuero"
+    },
+    {
+      "text" : "Aire Acondicionado",
+      "name": "aire-acondicionado"
+    },
+    {
+      "text" : "Volate Ajustable",
+      "name": "volate-ajustable"
+    }
+  ],
+  "appearance": [
+    {
+      "text" : "Vidrios Polarizados",
+      "name": "vidrios-polarizados"
+    },
+    {
+      "text" : "Aros de Lujo",
+      "name": "aros-lujo"
+    },
+    {
+      "text" : "Techo Panorámico",
+      "name": "techo panoramico"
+    }
+  ]
+}

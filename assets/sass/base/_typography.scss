@@ -1,0 +1,57 @@
+html {
+  font-size: $body-font-size-xs;
+}
+
+body {
+  font-family: $font-primary;
+}
+
+p {
+  font-family: $font-primary;
+  font-weight: $font-weight-regular;
+}
+
+h1, h2, h3, h4, h5, h6, p, label {
+  color: $black;
+  line-height: 1;
+}
+
+h1 {
+  font-family: $font-primary;
+  font-weight: $font-weight-bold;
+}
+
+h2 {
+  font-size: 1.9rem;
+  font-family: $font-primary;
+  font-weight: $font-weight-bold;
+
+  &.title-section {
+    text-align: center;
+    margin: 5rem 0px 3rem;
+  }
+}
+
+h4 {
+  font-size: 1.1875rem;
+  font-family: $font-primary;
+  font-weight: $font-weight-regular;
+}
+
+@include tablet-md-desktop {
+  html {
+    font-size: $body-font-size;
+  }
+
+  h2 {
+    font-size: 2rem;
+
+    &.title-section {
+      font-size: 2.1rem;
+    }
+  }
+
+  h4 {
+    font-size: 1.257rem;
+  }
+}

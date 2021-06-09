@@ -1,0 +1,123 @@
+.slick-arrow {
+  background-color: $carousel-bg-arrow;
+  height: 60px;
+  width: 60px;
+  z-index: 1;
+
+  // Card card
+  .car-card-container & {
+    background-color: transparent;
+
+    &.slick-next,
+    &.slick-prev {
+      background-color: transparent;
+    }
+
+    &.slick-next {
+      right: 0;
+      z-index: 2;
+    }
+
+    &.slick-prev {
+      left: 0;
+    }
+  }
+
+  &.slick-next,
+  &.slick-prev {
+    background-color: $carousel-bg-arrow;
+
+    &:before {
+      content: "";
+      width: 30px;
+      height: 29px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-size: 16px;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-image: url('/assets/images/icons/arrow.png');
+    }
+  }
+
+  &.slick-prev {
+    &:before {
+      transform: translate(-50%, -50%) rotate(-180deg);
+    }
+  }
+}
+
+.slick-dotted.slick-slider {
+  margin-bottom: 50px;
+}
+
+
+.slick-dots {
+  bottom: -35px;
+
+  .car-card-container & {
+    bottom: 7px;
+
+    li {
+      &.slick-active {
+        button {
+          &:before {
+            color: $white;
+          }
+        }
+      }
+    }
+  }
+
+  li {
+    button {
+      &:before {
+        font-size: 0.9rem;
+      }
+    }
+
+    &.slick-active {
+      button {
+        &:before {
+          color: $carousel-dots-color;
+        }
+      }
+    }
+  }
+}
+
+
+@include tablet-desktop {
+  .slick-track {
+    .slide-container {
+
+      &:nth-child(odd){
+        margin-right: 15px;
+        margin-left: 0;
+
+        .car-card-container & {
+          margin-right: 0;
+        }
+      }
+
+      &:nth-child(even){
+        margin-left: 15px;
+
+        .car-card-container & {
+          margin-left: 0;
+        }
+      }
+    }
+  }
+}
+
+@include tablet-md-desktop {
+  .slick-list,
+  .slick-track {
+    .car-card-container & {
+      height: 100%;
+    }
+  }
+}
