@@ -1,0 +1,14 @@
+input[type='text'],
+input[type='email'] {
+  width: 100%;
+  background: $white;
+  padding: 10px 12px;
+  border-radius: 5px;
+  border: 1px solid $input-border-color;
+  @include focusOutlineTransition;
+
+  &:focus {
+    outline: none;
+    @include focusOutline;
+  }
+}

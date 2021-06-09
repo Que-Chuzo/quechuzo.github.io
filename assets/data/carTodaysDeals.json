@@ -1,0 +1,87 @@
+[
+  {
+    "brand": "Ford",
+    "model": "F-150",
+    "year": "2020",
+    "image": "/assets/images/autos/save-1.jpg",
+    "features": [
+      "Full Extras",
+      "Automatico",
+      "Gasolina",
+      "Aros de Lujo"
+    ],
+    "oldValue": "20000000",
+    "currentVaue": "17000000"
+  },
+  {
+    "brand": "Toyota",
+    "model": "4Runner",
+    "year": "2020",
+    "image": "/assets/images/autos/save-2.jpg",
+    "features": [
+      "Full Extras",
+      "Automatico",
+      "Gasolina",
+      "Aros de Lujo"
+    ],
+    "oldValue": 22400000,
+    "currentVaue": 21000000
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat TDI SE",
+    "year": "2014",
+    "image": "/assets/images/autos/save-3.jpeg",
+    "features": [
+      "Full Extras",
+      "Automatico",
+      "Gasolina",
+      "Aros de Lujo"
+    ],
+    "oldValue": 75000000,
+    "currentVaue": 6000000
+  },
+  {
+    "brand": "Volvo",
+    "model": "S60 T6 Momentum AWD",
+    "year": "2019",
+    "image": "/assets/images/autos/save-4.jpeg",
+    "features": [
+      "Full Extras",
+      "Automatico",
+      "Gasolina",
+      "Aros de Lujo"
+    ],
+    "oldValue": 15300000,
+    "currentVaue": 14500000
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Pacifica Touring L FWD",
+    "year": "2017",
+    "image": "/assets/images/autos/save-5.jpeg",
+    "features": [
+      "Full Extras",
+      "Automatico",
+      "Gasolina",
+      "Aros de Lujo"
+    ],
+    "oldValue": 11000000,
+    "currentVaue": 10000000
+  },
+
+  {
+    "brand": "Jeep",
+    "model": "Wrangler Unlimited Sahara 4WD",
+    "year": "2012",
+    "image": "/assets/images/autos/save-6.jpeg",
+    "features": [
+      "Full Extras",
+      "Automatico",
+      "Gasolina",
+      "Aros de Lujo"
+    ],
+    "oldValue": 12000000,
+    "currentVaue": 10800000
+  }
+]

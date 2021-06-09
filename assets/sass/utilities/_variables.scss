@@ -1,0 +1,127 @@
+/****** COLORS ******/
+
+//Colors
+$white: #fff;
+$black: #333;
+$blue-lagoon: #03727F;
+$blue-lagoon-dark: #04646f;
+$sunglo: #E8717C;
+$sunglo-dark: #c35f68;
+//$indigo: #5C56CB;
+$indigo: #6964c5;
+$indigo-dark: #3c3888;
+$hit-pink: #FFAA77;
+$alto: #DADADA;
+$alto-2: #DEDEDE;
+$seashell: #F1F1F1;
+$silver: #BEBEBE;
+$silver-chalice: #A2A2A2;
+$gray: #8F8F8F;
+$whatsapp-color: #25D366;
+$juniper: #698B87;
+//Labels
+$shocking-pink: #E82DD4;
+$emerald: #49D753;
+$royal-blue: #2B54EE;
+
+
+/****** COMPONENTS ******/
+
+//Buttons
+$btn-secondary-color: $sunglo;
+$btn-secondary-hover-color: $sunglo-dark;
+$btn-primary-color: $indigo;
+$btn-primary-hover-color: $indigo-dark;
+
+//Form
+$focus-border-color: $indigo;
+$input-border-color: $silver;
+$radio-background-color: $sunglo;
+$checkbox-background-color: $sunglo;
+$checkbox-background-hover-color: $sunglo-dark;
+
+//Search widget
+$search-widget-bg-color: $alto;
+
+//Label Colors
+$sales-bg-color: $sunglo;
+$urgent-to-sell-bg-color: $shocking-pink;
+$urgent-to-sell-color: $white;
+$sole-owner-bg-color: $emerald;
+$sole-owner-color: $black;
+$with-guarantee-bg-color: $royal-blue;
+$with-guarantee-color: $white;
+
+//Carousel
+$carousel-bg-color: $seashell;
+$carouser-btn-color: $indigo;
+$slide-bg-color: $black;
+$carousel-bg-arrow: $indigo;
+$carousel-dots-color: $indigo;
+
+//Search Filter
+$search-filter-bg-color: $seashell;
+$search-filter-border-color: $silver;
+
+//Car Card
+$car-card-price-color: $indigo;
+$car-card-border-color: $blue-lagoon;
+$car-card-financing-color: $gray;
+$car-card-shadow-default-color: $gray;
+$car-card-interior-exterior-border-color: $gray;
+
+//Social Media Share
+$social-media-share-color: $silver-chalice;
+
+//Navbar
+$navbar-bg-color: $blue-lagoon;
+$navbar-menu-bg-color: $blue-lagoon-dark;
+
+
+//Car Seller:
+$car-seller-bg-color: $seashell;
+$car-seller-footer-bg-color: $alto-2;
+
+//Footer
+$footer-bg-color: $blue-lagoon;
+
+//Compare
+$header-section-bg-color: $alto;
+$header-feature-bg-color: $juniper;
+$feature-cell-bg-color: $seashell;
+
+//  Global Colors //
+$text-color: $black;
+$title-section: $blue-lagoon;
+$primary-color: $blue-lagoon;
+$secondary-color: $sunglo;
+$tertiary-color: $indigo;
+$border-color: $silver;
+$background-gray: $seashell;
+
+/****** MEDIA QUERIES ******/
+
+//Screen Media Query size
+$screen-xs: 480px !default;
+$screen-sm: 768px !default;
+$screen-md: 992px !default;
+$screen-lg: 1200px !default;
+
+// So media queries don't overlap when required, provide a maximum
+$screen-xs-max: ($screen-sm - 1) !default;
+$screen-sm-max: ($screen-md - 1) !default;
+$screen-md-max: ($screen-lg - 1) !default;
+
+/****** STRUCTURE ******/
+
+// structure
+$top-space-content-mobile: 72px;
+
+//container
+$padding-container: 0 20px;
+$container-width-xs: 100%;
+$container-width-sm: 720px;
+$container-width-md: 970px;
+$container-width-lg: 1200px;
+
+

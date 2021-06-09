@@ -1,0 +1,8 @@
+.qch-tooltip {
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 8px;
+  @include icon-as-background(100%, $i-tooltip);
+}
