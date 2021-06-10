@@ -6,7 +6,7 @@
       "brand": "Toyota",
       "model": "Hilux",
       "year": "2014",
-      "image": "/assets/images/autos/car-1.jpg",
+      "image": "./assets/images/autos/car-1.jpg",
       "capacity": 5,
       "isPremium": true,
       "financing": true,
@@ -23,7 +23,7 @@
       "seller":  {
         "firstname": "Lauren",
         "lastname": "López Ordóñez",
-        "image": "/assets/images/profile.jpg",
+        "image": "./assets/images/profile.jpg",
         "whatsapp": "8316-8465",
         "phone": "8316-8465",
         "email": "juanito@fake.com"
@@ -72,7 +72,7 @@
       "brand": "Toyota",
       "model": "RAV 4",
       "year": "2017",
-      "image": "/assets/images/autos/car-2.jpg",
+      "image": "./assets/images/autos/car-2.jpg",
       "capacity": 5,
       "isPremium": true,
       "financing": true,
@@ -89,7 +89,7 @@
       "seller":  {
         "firstname": "Lauren",
         "lastname": "López Ordóñez",
-        "image": "/assets/images/profile.jpg",
+        "image": "./assets/images/profile.jpg",
         "whatsapp": "8316-8465",
         "phone": "8316-8465",
         "email": "juanito@fake.com"
@@ -138,7 +138,7 @@
       "brand": "Toyota",
       "model": "Hilux",
       "year": "2014",
-      "image": "/assets/images/autos/car-1.jpg",
+      "image": "./assets/images/autos/car-1.jpg",
       "capacity": 5,
       "isPremium": true,
       "financing": true,
@@ -155,7 +155,7 @@
       "seller":  {
         "firstname": "Lauren",
         "lastname": "López Ordóñez",
-        "image": "/assets/images/profile.jpg",
+        "image": "./assets/images/profile.jpg",
         "whatsapp": "8316-8465",
         "phone": "8316-8465",
         "email": "juanito@fake.com"
@@ -204,7 +204,7 @@
       "brand": "Toyota",
       "model": "RAV 4",
       "year": "2017",
-      "image": "/assets/images/autos/car-2.jpg",
+      "image": "./assets/images/autos/car-2.jpg",
       "capacity": 5,
       "isPremium": true,
       "financing": true,
@@ -221,7 +221,7 @@
       "seller":  {
         "firstname": "Lauren",
         "lastname": "López Ordóñez",
-        "image": "/assets/images/profile.jpg",
+        "image": "./assets/images/profile.jpg",
         "whatsapp": "8316-8465",
         "phone": "8316-8465",
         "email": "juanito@fake.com"

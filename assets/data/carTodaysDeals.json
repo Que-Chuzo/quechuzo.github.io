@@ -3,7 +3,7 @@
     "brand": "Ford",
     "model": "F-150",
     "year": "2020",
-    "image": "/assets/images/autos/save-1.jpg",
+    "image": "./assets/images/autos/save-1.jpg",
     "features": [
       "Full Extras",
       "Automatico",
@@ -17,7 +17,7 @@
     "brand": "Toyota",
     "model": "4Runner",
     "year": "2020",
-    "image": "/assets/images/autos/save-2.jpg",
+    "image": "./assets/images/autos/save-2.jpg",
     "features": [
       "Full Extras",
       "Automatico",
@@ -31,7 +31,7 @@
     "brand": "Volkswagen",
     "model": "Passat TDI SE",
     "year": "2014",
-    "image": "/assets/images/autos/save-3.jpeg",
+    "image": "./assets/images/autos/save-3.jpeg",
     "features": [
       "Full Extras",
       "Automatico",
@@ -45,7 +45,7 @@
     "brand": "Volvo",
     "model": "S60 T6 Momentum AWD",
     "year": "2019",
-    "image": "/assets/images/autos/save-4.jpeg",
+    "image": "./assets/images/autos/save-4.jpeg",
     "features": [
       "Full Extras",
       "Automatico",
@@ -59,7 +59,7 @@
     "brand": "Chrysler",
     "model": "Pacifica Touring L FWD",
     "year": "2017",
-    "image": "/assets/images/autos/save-5.jpeg",
+    "image": "./assets/images/autos/save-5.jpeg",
     "features": [
       "Full Extras",
       "Automatico",
@@ -74,7 +74,7 @@
     "brand": "Jeep",
     "model": "Wrangler Unlimited Sahara 4WD",
     "year": "2012",
-    "image": "/assets/images/autos/save-6.jpeg",
+    "image": "./assets/images/autos/save-6.jpeg",
     "features": [
       "Full Extras",
       "Automatico",
